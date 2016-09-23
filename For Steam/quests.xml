@@ -116,7 +116,7 @@
 	
 	<!-- CHALLENGES -->
 	<quest id="challenge_silenceofthelambs" name_key="challenge_silenceofthelambs" subtitle_key="challenge_silenceofthelambs_subtitle" description_key="challenge_silenceofthelambs_offer" icon="ui_game_symbol_zombie" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_silenceofthelambs_offer" difficulty="insane" >
+	repeatable="true" category_key="" offer_key="challenge_silenceofthelambs_offer" difficulty="insane" >
 		<objective type="Time" value="1200" optional="true" />
 		<objective type="ZombieKill" id="zombieScreamer" value="3" />
 		
@@ -125,7 +125,7 @@
 	</quest>
 	
 	<quest id="challenge_drunkanddisorderly" name_key="challenge_drunkanddisorderly" subtitle_key="challenge_drunkanddisorderly_subtitle" description_key="challenge_drunkanddisorderly_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_drunkanddisorderly_offer" difficulty="medium">
+		repeatable="true" category_key="" offer_key="challenge_drunkanddisorderly_offer" difficulty="medium">
 		<objective type="Time" value="600" optional="true" />
 		<objective type="ZombieKill" value="2"  />
 		<requirement type="Holding" id="" />
@@ -141,7 +141,7 @@
 	</quest>
 	
 	<quest id="challenge_nurseyoubacktohealth" name_key="challenge_nurseyoubacktohealth" subtitle_key="challenge_nurseyoubacktohealth_subtitle" description_key="challenge_nurseyoubacktohealth_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_nurseyoubacktohealth_offer" difficulty="medium" >
+		repeatable="true" category_key="" offer_key="challenge_nurseyoubacktohealth_offer" difficulty="medium" >
 		
 		<objective type="Time" value="900" optional="true" />
 		<objective type="ZombieKill" id="zombieNurse" value="3" />
@@ -151,7 +151,7 @@
 	</quest>
 	
 	<quest id="challenge_copanattitude" name_key="challenge_copanattitude" subtitle_key="challenge_copanattitude_subtitle" description_key="challenge_copanattitude_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_copanattitude_offer" difficulty="hard">
+		repeatable="true" category_key="" offer_key="challenge_copanattitude_offer" difficulty="hard">
 		<objective type="Time" value="1500" optional="true" />
 		<objective type="ZombieKill" id="fatzombiecop" value="2" />
 		
@@ -160,7 +160,7 @@
 	</quest>
 	
 	<quest id="challenge_dogdaysareover" name_key="challenge_dogdaysareover" subtitle_key="challenge_dogdaysareover_subtitle" description_key="challenge_dogdaysareover_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_dogdaysareover_offer" difficulty="hard">
+		repeatable="true" category_key="" offer_key="challenge_dogdaysareover_offer" difficulty="hard">
 		<objective type="Time" value="1500" optional="true" />
 		<objective type="ZombieKill" id="zombiedog" value="3" />
 		
@@ -169,7 +169,7 @@
 	</quest>
 	
 	<quest id="challenge_itsybitsyspider" name_key="challenge_itsybitsyspider" subtitle_key="challenge_itsybitsyspider_subtitle" description_key="challenge_itsybitsyspider_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_itsybitsyspider_offer" difficulty="medium">
+		repeatable="true" category_key="" offer_key="challenge_itsybitsyspider_offer" difficulty="medium">
 		<objective type="Time" value="900" optional="true" />
 		<objective type="ZombieKill" id="spiderzombie" value="3" />
 		
@@ -178,7 +178,7 @@
 	</quest>
 	
 	<quest id="challenge_ladykiller" name_key="challenge_ladykiller" subtitle_key="challenge_ladykiller_subtitle" description_key="challenge_ladykiller_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_ladykiller_offer" difficulty="medium">
+		repeatable="true" category_key="" offer_key="challenge_ladykiller_offer" difficulty="medium">
 		<objective type="Time" value="900" optional="true" />
 		<objective type="ZombieKill" id="zombieArlene" value="1" />
 		<objective type="ZombieKill" id="zombieDarlene" value="1" />
@@ -191,7 +191,7 @@
 	
 	
 	<quest id="challenge_maneater" name_key="challenge_maneater" subtitle_key="challenge_maneater_subtitle" description_key="challenge_maneater_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_maneater_offer" difficulty="medium">
+		repeatable="true" category_key="" offer_key="challenge_maneater_offer" difficulty="medium">
 		<objective type="Time" value="900" optional="true" />
 		<objective type="ZombieKill" id="zombieBoe" value="1" />
 		<objective type="ZombieKill" id="zombieJoe" value="1" />
@@ -204,7 +204,7 @@
 	</quest>
 	
 	<quest id="challenge_yournothingspecial" name_key="challenge_yournothingspecial" subtitle_key="challenge_yournothingspecial_subtitle" description_key="challenge_yournothingspecial_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_yournothingspecial_offer" difficulty="insane">
+		repeatable="true" category_key="" offer_key="challenge_yournothingspecial_offer" difficulty="insane">
 		<objective type="Time" value="1800" optional="true" />
 		<objective type="ZombieKill" id="spiderzombie" value="1" />
 		<objective type="ZombieKill" id="fatzombiecop" value="1" />
@@ -217,7 +217,7 @@
 	</quest>
 	
 	<quest id="challenge_imalumberjackandimokay" name_key="challenge_imalumberjackandimokay" subtitle_key="challenge_imalumberjackandimokay_subtitle" description_key="challenge_imalumberjackandimokay_offer" icon="ui_game_symbol_zombie" 
-		repeatable="true" category_key="Wyzwanie" offer_key="challenge_imalumberjackandimokay_offer" difficulty="hard">
+		repeatable="true" category_key="" offer_key="challenge_imalumberjackandimokay_offer" difficulty="hard">
 		
 		<objective type="Time" value="900" optional="true" />
 		<objective type="ZombieKill" id="snowzombie" value="3" />
@@ -233,7 +233,7 @@
 	
 	
 	<quest id="challenge_killthewabbit" name_key="challenge_killthewabbit" subtitle_key="challenge_killthewabbit_subtitle" description_key="challenge_killthewabbit_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_killthewabbit_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="challenge_killthewabbit_offer" difficulty="medium">
 		
 		<objective type="AnimalKill" id="animalRabbit" value="5"  />
 		
@@ -246,7 +246,7 @@
 	</quest>
 	
 	<quest id="challenge_nailsomechicks" name_key="challenge_nailsomechicks" subtitle_key="challenge_nailsomechicks_subtitle" description_key="challenge_nailsomechicks_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_nailsomechicks_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="challenge_nailsomechicks_offer" difficulty="medium">
 		<objective type="AnimalKill" id="animalChicken" value="5"  />
 		
 		<requirement type="Holding" id="nailgun" />
@@ -255,21 +255,21 @@
 	</quest>
 	
 	<quest id="challenge_thatlldopig" name_key="challenge_thatlldopig" subtitle_key="challenge_thatlldopig_subtitle" description_key="challenge_thatlldopig_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_thatlldopig_offer" difficulty="easy">
+	repeatable="true" category_key="" offer_key="challenge_thatlldopig_offer" difficulty="easy">
 		<objective type="AnimalKill" id="animalPig" value="5"  />
 		
 		<reward type="SkillPoints" value="1" />
 	</quest>
 	
 	<quest id="challenge_stagparty" name_key="challenge_stagparty" subtitle_key="challenge_stagparty_subtitle" description_key="challenge_stagparty_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_stagparty_offer" difficulty="easy">
+	repeatable="true" category_key="" offer_key="challenge_stagparty_offer" difficulty="easy">
 		<objective type="AnimalKill" id="animalStag" value="5"  />
 		
 		<reward type="SkillPoints" value="1" />
 	</quest>
 	
 	<quest id="challenge_dontfeedthebears" name_key="challenge_dontfeedthebears" subtitle_key="challenge_dontfeedthebears_subtitle" description_key="challenge_dontfeedthebears_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_dontfeedthebears_offer" difficulty="hard">
+	repeatable="true" category_key="" offer_key="challenge_dontfeedthebears_offer" difficulty="hard">
 		<objective type="AnimalKill" id="animalBear" value="3"  />
 		
 		
@@ -277,7 +277,7 @@
 	</quest>
 	
 	<quest id="challenge_buythefarm" name_key="challenge_buythefarm" subtitle_key="challenge_buythefarm_subtitle" description_key="challenge_buythefarm_offer" icon="ui_game_symbol_knife" 
-	repeatable="true" category_key="Wyzwanie" offer_key="challenge_buythefarm_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="challenge_buythefarm_offer" difficulty="medium">
 		<objective type="AnimalKill" id="animalRabbit" value="1"  />
 		<objective type="AnimalKill" id="animalChicken" value="1"  />
 		<objective type="AnimalKill" id="animalPig" value="1"  />
@@ -289,43 +289,43 @@
 	</quest>
 	
 	<quest id="treasure_taylor" name_key="treasure_taylor" subtitle_key="treasure_taylor_subtitle" description_key="treasure_taylor_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_taylor_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_taylor_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 	
 	<quest id="treasure_nickole" name_key="treasure_nickole" subtitle_key="treasure_nickole_subtitle" description_key="treasure_nickole_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_nickole_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_nickole_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 	
 	<quest id="treasure_stephan" name_key="treasure_stephan" subtitle_key="treasure_stephan_subtitle" description_key="treasure_stephan_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_stephan_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_stephan_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 		
 	<quest id="treasure_jennifer" name_key="treasure_jennifer" subtitle_key="treasure_jennifer_subtitle" description_key="treasure_jennifer_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_jennifer_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_jennifer_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 	
 	<quest id="treasure_claude" name_key="treasure_claude" subtitle_key="treasure_claude_subtitle" description_key="treasure_claude_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_claude_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_claude_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 	
 	<quest id="treasure_sarah" name_key="treasure_sarah" subtitle_key="treasure_sarah_subtitle" description_key="treasure_sarah_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_sarah_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_sarah_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>
 	
 	<quest id="treasure_raphael" name_key="treasure_raphael" subtitle_key="treasure_raphael_subtitle" description_key="treasure_raphael_offer" icon="ui_game_symbol_treasure" 
-	repeatable="true" category_key="Skarb" offer_key="treasure_raphael_offer" difficulty="medium">
+	repeatable="true" category_key="" offer_key="treasure_raphael_offer" difficulty="medium">
 		
 		<objective type="TreasureChest" id="treasureChest" value="1000-1750" />
 	</quest>

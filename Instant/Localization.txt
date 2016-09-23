@@ -2697,8 +2697,8 @@ btnCancel,UI,Menu,KgNone,Cancel,Annuler,Abbrechen,,Cancelar
 btnConfigControls,UI,Menu,KgNone,Config Controls,Paramètres des commandes,Steuerung anpassen,,Configurar controles
 btnConfirm,UI,Menu,KgNone,Delete,Supprimer,Löschen,,Borrar
 btnConnectToServer,UI,Menu,KgNone,Connect To Server,Se connecter au serveur,Mit dem Server verbinden,,Conectar al servidor
-btnContinue,UI,Menu,KgNone,Continue,Continuer,Weiter,,Continuar
-btnContinueGame,UI,Menu,KgNone,Continue Game,Continuer la partie,Spiel fortsetzen,,Continuar partida
+btnContinue,UI,Menu,KgNone,Kontynuuj,Continuer,Weiter,,Continuar
+btnContinueGame,UI,Menu,KgNone,Kontynuuj gre,Continuer la partie,Spiel fortsetzen,,Continuar partida
 btnCreateWorld,UI,Menu,KgNone,Editing Tools,Outils d'édition,Bearbeitungs-tools,,Herramientas de edición
 btnCredits,UI,Menu,KgNone,Credits,Crédits,Mitwirkende,,Créditos
 btnDefaults,UI,Menu,KgNone,Defaults,Par défaut,Standardeinstellungen,,Predeterminados
